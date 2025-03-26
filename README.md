@@ -55,4 +55,4 @@ Obrigado e até mais, terráqueos! 🖖🏻
 
 
 ---
-Acesse o repositório do projeto [aqui](https://github.com/JoaoMarceloGuastala09/TesteFormatacaoGitHub.git)
+Acesse o repositório do projeto [aqui](https://github.com/JoaoMarceloGuastala09/pedra-papel-tesoura.git)
