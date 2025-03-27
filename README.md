@@ -4,7 +4,6 @@ Este é um jogo simples desenvolvido em **HTML**, **CSS** e **JavaScript** para 
 ---
 
 ### 🕹 Como Jogar:
-> No momento, não é possível jogar o jogo online.
 
 - ### Primeiro método: Clonando o repositório
 
@@ -21,8 +20,11 @@ Este é um jogo simples desenvolvido em **HTML**, **CSS** e **JavaScript** para 
 2. Clique em `<> Code`, se o seu estiver em português: `<> Código`.
 3. Depois clique em `Download ZIP`, se o seu estiver em português: `Baixar ZIP`.
 4. Abra seu gerenciador de arquivos e extraia a pasta, clicando nela com o botão **direito** e depois em **Extrair aqui**.
-5. Execute o arquivo `index.html` e se divirta.
+5. Execute o arquivo `index.html` e se divirta.> No momento, não é possível jogar o jogo online.
 
+- ### Terceiro método: Jogar on-line
+  1.Basta clicar no link ao lado dos arquivos: `https://joaomarceloguastala09.github.io/pedra-papel-tesoura/`
+   
 ---
 
 ### 🔬 O que foi utilizado:    
